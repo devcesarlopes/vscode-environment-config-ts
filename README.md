@@ -87,4 +87,9 @@ now we can type `git c "message"` for our commits.
 * `(Shift + Alt + Up/Down)` - Copy line up/down
 *  `(Shift + Alt + Left/Right)` - Select the whole line.
 
+## config.json
+
+The main file of VsCode that allows us to customize our editor is the config.json, to open it, we just have to `Open the command palette`, then type `">json"`, then select `"Preferences: Open User Settings (JSON)"`.
+
+Probably the default `config.json` will be empty: `{}`.
 
