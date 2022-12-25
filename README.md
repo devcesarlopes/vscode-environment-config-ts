@@ -130,3 +130,9 @@ Replace by this code:
 
 Now, whenever we write `==, ===, !=, !==, >=, >, <>` and others, they will be pretty formated. 
 
+## Color Highlight
+
+Let's say that we write a color hex or rgb in our code. Sometime we can get lost on which color is which, so, to make our life easier, we can just use the Color Highlight extension. This extension will highlight the colors in the #hex codes so we can know which color we are dealing with in our css or styled-components.
+
+To download it, `Open Extensions Tab`, then type the Color Highlight extension id: `naumovs.color-highlight`, download it.
+
