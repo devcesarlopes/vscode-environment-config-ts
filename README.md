@@ -102,7 +102,7 @@ One of my favorite themes for Vscode is dracula. To download it, `Open Extension
 
 When I'm programming I like to show the boolean conditions in a special formatting. 
 
-![Firacode Icons](./firacode.svg)
+<img src="./firacode.svg" alt="drawing" width="500"/>
 
 To do that we can download the Firacode Fonts, made by tonsky.
 
@@ -129,3 +129,4 @@ Replace by this code:
 ```
 
 Now, whenever we write `==, ===, !=, !==, >=, >, <>` and others, they will be pretty formated. 
+
