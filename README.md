@@ -174,4 +174,10 @@ ESLint Extension ID: `dbaeumer.vscode-eslint`
 
 Prettier Extenson ID: `rvest.vs-code-prettier-eslint`
 
+## Git Lens
 
+If you worked with teams, probably you got into that situation where you saw a smelling code, and thought "who did this garbage?", after a while you realized it was yourself "hahahahaha". With Git Lens you can see who did what on VSCode and make sure to know where the changes were made and by who.
+
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Git Lens extension id:
+
+ `eamodio.gitlens`
