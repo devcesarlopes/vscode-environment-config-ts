@@ -181,3 +181,14 @@ If you worked with teams, probably you got into that situation where you saw a s
 To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Git Lens extension id:
 
  `eamodio.gitlens`
+
+## Explorer Icons - Material Icon Theme
+
+Sometimes you have a lot of different files in your project and you can't really say easily what is what.
+
+Material Icon Theme sets up new Themes and make sure that you know exactly what you are looking for in you explorer tab.
+
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Material Icon Theme extension id:
+
+ `PKief.material-icon-theme`
+
