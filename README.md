@@ -84,10 +84,11 @@ now we can type `git c "message"` for our commits.
 
 ### Windows
 
-* `(F1 or Ctrl + Shift + P)` - Open the command palette
-* `(Ctrl + Shift + X)` - Open Extensions Tab
+* `(F1 or Ctrl + Shift + P)` - Open the command palette;
+* `(Ctrl + Shift + X)` - Open Extensions Tab.
+* `(Alt + Up/Down)` - Move line Up or Down.
 * `(Ctrl+D)` - selects the word at the cursor, or the next occurrence of the current selection.
-* `(Shift + Alt + Up/Down)` - Copy line up/down
+* `(Shift + Alt + Up/Down)` - Copy line up/down.
 * `(Shift + Alt + Left/Right)` - Select the whole line.
 
 ## Configurations File - config.json
@@ -200,3 +201,24 @@ To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, the
 
  `PKief.material-icon-theme`
 
+## config.json - final commit.
+
+````
+    // Theme
+    "workbench.colorTheme": "Dracula",
+    
+    //Fonts
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    
+    //Icon Theme
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.rulers": [80, 120],
+    "editor.formatOnSave": false,
+
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 4,
+    "extensions.ignoreRecommendations": false,
+
+```
