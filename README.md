@@ -98,7 +98,11 @@ Probably the default `config.json` will be empty: `{}`.
 
 ## Theming
 
-One of my favorite themes for Vscode is dracula. To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the dracula extension id: `dracula-theme.theme-dracula`, download it, then set color theme for dracula or dracula-soft. I personally prefer dracula.
+One of my favorite themes for Vscode is dracula. To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the dracula extension id: 
+
+`dracula-theme.theme-dracula`
+
+ Then set color theme for dracula or dracula-soft. I personally prefer dracula.
 
 ## Fonts
 
@@ -136,11 +140,24 @@ Now, whenever we write `==, ===, !=, !==, >=, >, <>` and others, they will be pr
 
 Let's say that we write a color hex or rgb in our code. Sometime we can get lost on which color is which, so, to make our life easier, we can just use the Color Highlight extension. This extension will highlight the colors in the #hex codes so we can know which color we are dealing with in our css or styled-components.
 
-To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Color Highlight extension id: `naumovs.color-highlight`, download it.
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Color Highlight extension id: 
+
+`naumovs.color-highlight`
 
 ## Env files
 
 To highlight `.env` files and see better the variables we can use DotENV extension.
 
 To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the DotENV extension id: `mikestead.dotenv`, download it.
+
+## Editor Config
+
+When developing code in teams, it is possible that people use different editors to develop the code. So, to keep a default formatting and make sure that the identation_size, identation_style, charset, and other properties that we can't see are the same along the team we can use this extension make sure the problem "in my machine works" is not going to be told.
+
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Editor Config extension id:
+
+ `EditorConfig.EditorConfig`
+
+
+To Use it, go to your main project folder, In the Explorer tab, right click and select `[generate .editorconfig]`. It is going to be the last option.
 
