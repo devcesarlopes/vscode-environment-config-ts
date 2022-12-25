@@ -161,3 +161,17 @@ To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, the
 
 To Use it, go to your main project folder, In the Explorer tab, right click and select `[generate .editorconfig]`. It is going to be the last option.
 
+## Code Formatting - ESLint + Prettier
+
+There are two important roles in code formatting, Code Style and Code Formatting.
+
+* ESLint analyzes your code for style and coding errors that can lead to bugs.
+* Prettier analyzes your code styles and make sure that you keep a format standard in you code, for example, line breaks, dot comma at the end of lines, etc.
+
+To download them: 
+
+ESLint Extension ID: `dbaeumer.vscode-eslint`
+
+Prettier Extenson ID: `rvest.vs-code-prettier-eslint`
+
+
