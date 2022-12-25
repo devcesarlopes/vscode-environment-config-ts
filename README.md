@@ -83,13 +83,18 @@ now we can type `git c "message"` for our commits.
 ### Windows
 
 * `(F1 or Ctrl + Shift + P)` - Open the command palette
+* `(Ctrl + Shift + X)` - Open Extensions Tab
 * `(Ctrl+D)` - selects the word at the cursor, or the next occurrence of the current selection.
 * `(Shift + Alt + Up/Down)` - Copy line up/down
-*  `(Shift + Alt + Left/Right)` - Select the whole line.
+* `(Shift + Alt + Left/Right)` - Select the whole line.
 
-## config.json
+## Configurations File - config.json
 
 The main file of VsCode that allows us to customize our editor is the config.json, to open it, we just have to `Open the command palette`, then type `">json"`, then select `"Preferences: Open User Settings (JSON)"`.
 
 Probably the default `config.json` will be empty: `{}`.
+
+## Theming
+
+One of my favorite themes for Vscode is dracula. To download it, `Open Extensions Tab`, then type the dracula extension id: `dracula-theme.theme-dracula`, download it, then set color theme for dracula or dracula-soft. I personally prefer dracula.
 
