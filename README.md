@@ -98,3 +98,34 @@ Probably the default `config.json` will be empty: `{}`.
 
 One of my favorite themes for Vscode is dracula. To download it, `Open Extensions Tab`, then type the dracula extension id: `dracula-theme.theme-dracula`, download it, then set color theme for dracula or dracula-soft. I personally prefer dracula.
 
+## Fonts
+
+When I'm programming I like to show the boolean conditions in a special formatting. 
+
+![Firacode Icons](./firacode.svg)
+
+To do that we can download the Firacode Fonts, made by tonsky.
+
+[Download Firacode Fonts](https://github.com/tonsky/FiraCode)
+
+Download the zip file, unpack, go to `ttf` folder and install the fonts on your system.
+
+Then, open the `Config.json` file. It is going to look like this:
+
+```
+{
+    "workbench.colorTheme": "Dracula"
+}
+```
+
+Replace by this code:
+
+```
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+}
+```
+
+Now, whenever we write `==, ===, !=, !==, >=, >, <>` and others, they will be pretty formated. 
