@@ -144,6 +144,14 @@ To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, the
 
 `naumovs.color-highlight`
 
+## CSS - Syled Components
+
+If you use React probably you use or is going to use styled-components. To make sure that the CSS code inside the styled component is highlighted as a CSS, download the vscode-styled-components. 
+
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the vscode-styled-components extension id: 
+
+`styled-components.vscode-styled-components`
+
 ## Env files
 
 To highlight `.env` files and see better the variables we can use DotENV extension.
