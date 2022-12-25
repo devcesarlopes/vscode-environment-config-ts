@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./styles.css">
+
 # vscode-environment-config-ts
 
 This is a tutorial to help begginners on how to configure Visual Studio Code environment for TS developers.
@@ -96,7 +98,7 @@ Probably the default `config.json` will be empty: `{}`.
 
 ## Theming
 
-One of my favorite themes for Vscode is dracula. To download it, `Open Extensions Tab`, then type the dracula extension id: `dracula-theme.theme-dracula`, download it, then set color theme for dracula or dracula-soft. I personally prefer dracula.
+One of my favorite themes for Vscode is dracula. To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the dracula extension id: `dracula-theme.theme-dracula`, download it, then set color theme for dracula or dracula-soft. I personally prefer dracula.
 
 ## Fonts
 
@@ -134,5 +136,11 @@ Now, whenever we write `==, ===, !=, !==, >=, >, <>` and others, they will be pr
 
 Let's say that we write a color hex or rgb in our code. Sometime we can get lost on which color is which, so, to make our life easier, we can just use the Color Highlight extension. This extension will highlight the colors in the #hex codes so we can know which color we are dealing with in our css or styled-components.
 
-To download it, `Open Extensions Tab`, then type the Color Highlight extension id: `naumovs.color-highlight`, download it.
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the Color Highlight extension id: `naumovs.color-highlight`, download it.
+
+## Env files
+
+To highlight `.env` files and see better the variables we can use DotENV extension.
+
+To download it, <abbr title="Ctrl + Shift + X">`Open Extensions Tab`</abbr>, then type the DotENV extension id: `mikestead.dotenv`, download it.
 
